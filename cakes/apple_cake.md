@@ -6,3 +6,4 @@
 * butter
 * flour
 
+## Baking instructions
