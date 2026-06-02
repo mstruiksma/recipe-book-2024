@@ -10,10 +10,10 @@ towards the template repository.
 
 ## Categories
 
-- [salads](salads)
-- [soups](soups)
-- [pasta](pasta)
-- [mains](mains)
-- [sides](sides)
+- [cakes](cakes)
 - [desserts](desserts)
-- [cakes]
+- [mains](mains)
+- [pasta](pasta)
+- [salads](salads)
+- [sides](sides)
+- [soups](soups)
