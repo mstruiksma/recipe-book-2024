@@ -1,9 +1,14 @@
 # Chocolate Cake
+
 ## Ingredients
-- Chocolate
-- cocoa poweder
-- flouw
-- butter
-- eggs
+
+* Chocolate
+* cocoa poweder
+* flouw
+* butter
+* eggs
 
 ## Baking instructions
+
+Preheat oven
+
