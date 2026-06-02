@@ -1,4 +1,8 @@
 # Apple cake
+
 ## Ingredients
-- apple
-- butter
+
+* apple
+* butter
+* flour
+
